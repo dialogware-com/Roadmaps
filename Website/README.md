@@ -1,40 +1,47 @@
-# HODL-DAO - Roadmap
-
-This document describes the current status and the upcoming milestones of the HODL-DAO project.
-
-*Updated: Fri, 25 Dec 2020 20:26:05 GMT*
-
-#### Milestone Summary
-
-| Status | Milestone | Goals | ETA |
-| :---: | :--- | :---: | :---: |
-| 🚀 | **[v1 Release](#v1-release)** | ![Progress](http://progressed.io/bar/76) | Wed Oct 14 2020 |
-
-## Milestones and Goals
-
-#### v1 Release
-
-> > Functional Site
-> Hosted With Netlify to TLD
-> Contains relevant info and supports all (most) ((some)) devices
-
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**10 / 13** goals completed **(76%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Wed Oct 14 2020**
-
-| Status | Goal | Labels | Repository |
-| :---: | :--- | --- | --- |
-| ✔ | [Pull down to reload interfering with FullPage component in some mobile browsers](https://github.com/HODL-DAO/Website/issues/16) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Fix scrolling with touchpad](https://github.com/HODL-DAO/Website/issues/15) |`bug`| <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Test fullpage component](https://github.com/HODL-DAO/Website/issues/14) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ❌ | [Add Token page functionality](https://github.com/HODL-DAO/Website/issues/13) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ❌ | [Add 4 states to page](https://github.com/HODL-DAO/Website/issues/12) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [implement fullpage.js (or equiv)](https://github.com/HODL-DAO/Website/issues/11) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Camera Panning](https://github.com/HODL-DAO/Website/issues/10) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Set up netlify + namecheap to link tld](https://github.com/HODL-DAO/Website/issues/7) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ❌ | [Create assets for PB and DoubleHelix on site](https://github.com/HODL-DAO/Website/issues/6) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Support Page](https://github.com/HODL-DAO/Website/issues/5) |`help wanted`, `question`| <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Set up routing using Sapper](https://github.com/HODL-DAO/Website/issues/4) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Implement scroll based positional layout for main landing page](https://github.com/HODL-DAO/Website/issues/3) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Use 11ty starter to wrap existing svelte components](https://github.com/HODL-DAO/Website/issues/1) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-
-
-
+[37m2020-12-25T21:12:13.803Z [31;22m[ERROR] [32;1mroadmap-generator[0m: GitHubError: Bad credentials
+    at GitHub.onResponse (/Users/Ollie/Desktop/HODL-DAO/roadmap-generator/node_modules/octocat/lib/index.js:89:15)
+    at GitHub.wrapper [as onResponse] (/Users/Ollie/Desktop/HODL-DAO/roadmap-generator/node_modules/octocat/node_modules/lodash/index.js:3095:19)
+    at Request._callback (/Users/Ollie/Desktop/HODL-DAO/roadmap-generator/node_modules/octocat/lib/index.js:125:31)
+    at Request.self.callback (/Users/Ollie/Desktop/HODL-DAO/roadmap-generator/node_modules/request/request.js:198:22)
+    at Request.emit (events.js:314:20)
+    at Request.<anonymous> (/Users/Ollie/Desktop/HODL-DAO/roadmap-generator/node_modules/request/request.js:1063:14)
+    at Request.emit (events.js:326:22)
+    at IncomingMessage.<anonymous> (/Users/Ollie/Desktop/HODL-DAO/roadmap-generator/node_modules/request/request.js:1009:12)
+    at IncomingMessage.emit (events.js:326:22)
+    at endReadableNT (_stream_readable.js:1252:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  statusCode: 401,
+  result: {
+    statusCode: 401,
+    statusType: '4XX',
+    headers: {
+      date: 'Fri, 25 Dec 2020 21:12:13 GMT',
+      'content-type': 'application/json; charset=utf-8',
+      'content-length': '80',
+      connection: 'close',
+      server: 'GitHub.com',
+      status: '401 Unauthorized',
+      'x-github-media-type': 'github.v3',
+      'x-ratelimit-limit': '60',
+      'x-ratelimit-remaining': '54',
+      'x-ratelimit-reset': '1608934165',
+      'x-ratelimit-used': '6',
+      'access-control-expose-headers': 'ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset',
+      'access-control-allow-origin': '*',
+      'strict-transport-security': 'max-age=31536000; includeSubdomains; preload',
+      'x-frame-options': 'deny',
+      'x-content-type-options': 'nosniff',
+      'x-xss-protection': '1; mode=block',
+      'referrer-policy': 'origin-when-cross-origin, strict-origin-when-cross-origin',
+      'content-security-policy': "default-src 'none'",
+      vary: 'Accept-Encoding, Accept, X-Requested-With',
+      'x-github-request-id': 'CADC:1DA2:17D75EA:1E25E5A:5FE655AD'
+    },
+    body: {
+      message: 'Bad credentials',
+      documentation_url: 'https://docs.github.com/rest'
+    }
+  },
+  documentationUrl: 'https://docs.github.com/rest',
+  errors: []
+}

@@ -16,7 +16,7 @@ module.exports = {
   // List of projects that this roadmap covers
   projects: [
     {
-      "name": "ELTBOT20",
+      "name": "ELTBOT 20",
       "repos": [
         "HODL-DAO/ELTBOT20.git"
       ], links: {}
