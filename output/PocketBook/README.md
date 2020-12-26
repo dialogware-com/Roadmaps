@@ -2,7 +2,7 @@
 
 This document describes the current status and the upcoming milestones of the HODL-DAO project.
 
-*Updated: Sat, 26 Dec 2020 16:19:41 GMT*
+*Updated: Sat, 26 Dec 2020 16:27:01 GMT*
 
 #### Milestone Summary
 
@@ -73,7 +73,7 @@ This document describes the current status and the upcoming milestones of the HO
 | ❌ | [Roadmap](https://github.com/HODL-DAO/PocketBook/issues/35) |`Note`, `documentation`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
 | ❌ | [Establish conventions and defaults for our DAO](https://github.com/HODL-DAO/PocketBook/issues/24) |`Note`, `chore`, `documentation`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
 | ✔ | [Immer + Redux](https://github.com/HODL-DAO/PocketBook/issues/22) |`Note`, `wontfix`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
-| ❌ | [Research TOR TCP/IP bridge for app as bool toggle settting](https://github.com/HODL-DAO/PocketBook/issues/17) |`help wanted`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ❌ | [TOR TCP/IP bridge for app as bool toggle settting](https://github.com/HODL-DAO/PocketBook/issues/17) |`help wanted`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
 | ❌ | [WalletRequestScreen](https://github.com/HODL-DAO/PocketBook/issues/14) | | <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
 | ❌ | [WalletSendScreen](https://github.com/HODL-DAO/PocketBook/issues/13) | | <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
 | ❌ | [Implement Camera using RNCamera from react-native-camera](https://github.com/HODL-DAO/PocketBook/issues/9) |`enhancement`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |

@@ -14,7 +14,3 @@ Roadmaps for ongoing projects.
 
 ## Latest EthereumContracts (private repo) Roadmap 
  -> [EthereumContracts Roadmap](https://github.com/HODL-DAO/Roadmaps/tree/master/output/EthereumContracts)
- 
- 
-## Latest ELTBOT20 (private repo) Roadmap 
- -> [ELTBOT20 Roadmap](https://github.com/HODL-DAO/Roadmaps/tree/master/output/ELTBOT20)
