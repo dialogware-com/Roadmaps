@@ -16,9 +16,9 @@ module.exports = {
   // List of projects that this roadmap covers
   projects: [
     {
-      name: "Website",
+      name: "PocketBook",
       repos: [
-        "HODL-DAO/Website"
+        "HODL-DAO/PocketBook"
       ],
       links: {}
     },
