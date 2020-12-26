@@ -2,13 +2,15 @@
 
 This document describes the current status and the upcoming milestones of the HODL-DAO project.
 
-*Updated: Sat, 26 Dec 2020 10:59:31 GMT*
+*Updated: Sat, 26 Dec 2020 16:19:41 GMT*
 
 #### Milestone Summary
 
 | Status | Milestone | Goals | ETA |
 | :---: | :--- | :---: | :---: |
 | 🚀 | **[Fully Functional UI ](#fully-functional-ui-)** | ![Progress](http://progressed.io/bar/0) | Sat Jan 23 2021 |
+| 🚀 | **[Beta 1](#beta-1)** | ![Progress](http://progressed.io/bar/0) | Tue Feb 23 2021 |
+| 🚀 | **[Fully implemented PocketBook ](#fully-implemented-pocketbook-)** | ![Progress](http://progressed.io/bar/76) | Fri Apr 02 2021 |
 | ⭐ | **[Functional Wallet](#functional-wallet)** | ![Progress](http://progressed.io/bar/100) | Wed Nov 18 2020 |
 
 ## Milestones and Goals
@@ -31,6 +33,51 @@ This document describes the current status and the upcoming milestones of the HO
 | ❌ | [CreateWalletFlow](https://github.com/HODL-DAO/PocketBook/issues/95) |`enhancement`, `saga`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
 | ❌ | [Make BootSplash pixelPerfect and animated](https://github.com/HODL-DAO/PocketBook/issues/93) |`enhancement`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
 | ❌ | [RestoreWalletFlow](https://github.com/HODL-DAO/PocketBook/issues/73) |`enhancement`, `saga`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+
+
+#### Beta 1
+
+> PB Beta 
+
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**0 / 0** goals completed **(0%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Tue Feb 23 2021**
+
+| Status | Goal | Labels | Repository |
+| :---: | :--- | --- | --- |
+
+
+#### Fully implemented PocketBook 
+
+> By this date, all designs should be implemented with minimal functionality, as necessary for a smooth MVP pitch.
+
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**19 / 25** goals completed **(76%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Fri Apr 02 2021**
+
+| Status | Goal | Labels | Repository |
+| :---: | :--- | --- | --- |
+| ✔ | [Use react-native-bootsplash](https://github.com/HODL-DAO/PocketBook/issues/92) |`enhancement`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [Purge before publish](https://github.com/HODL-DAO/PocketBook/issues/90) | | <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [Pb 85 address history screen](https://github.com/HODL-DAO/PocketBook/pull/88) |`enhancement`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [Pb 86 history item](https://github.com/HODL-DAO/PocketBook/pull/87) |`enhancement`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [AddressHistoryItem](https://github.com/HODL-DAO/PocketBook/issues/86) |`enhancement`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [AddressHistoryScreen](https://github.com/HODL-DAO/PocketBook/issues/85) |`enhancement`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [Pb 78 transactions home screen](https://github.com/HODL-DAO/PocketBook/pull/84) | | <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [Added CurrencyPicker](https://github.com/HODL-DAO/PocketBook/pull/83) |`enhancement`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [CurrencyPicker](https://github.com/HODL-DAO/PocketBook/issues/82) |`enhancement`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [NumPadIndicator MVP](https://github.com/HODL-DAO/PocketBook/pull/80) |`enhancement`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [Add NumPadIndicator](https://github.com/HODL-DAO/PocketBook/issues/79) |`enhancement`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [Wallet Tansactions](https://github.com/HODL-DAO/PocketBook/issues/78) |`enhancement`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [Refactor SplashScreen](https://github.com/HODL-DAO/PocketBook/issues/72) |`wontfix`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [create AppStates](https://github.com/HODL-DAO/PocketBook/issues/55) | | <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [Use react-native-screens](https://github.com/HODL-DAO/PocketBook/issues/52) | | <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [Port redux-persist implementation ](https://github.com/HODL-DAO/PocketBook/issues/46) |`wontfix`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [OLD TICKET: App name and icon](https://github.com/HODL-DAO/PocketBook/issues/37) |`ELTWALLT-Legacy`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ❌ | [Roadmap](https://github.com/HODL-DAO/PocketBook/issues/35) |`Note`, `documentation`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ❌ | [Establish conventions and defaults for our DAO](https://github.com/HODL-DAO/PocketBook/issues/24) |`Note`, `chore`, `documentation`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [Immer + Redux](https://github.com/HODL-DAO/PocketBook/issues/22) |`Note`, `wontfix`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ❌ | [Research TOR TCP/IP bridge for app as bool toggle settting](https://github.com/HODL-DAO/PocketBook/issues/17) |`help wanted`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ❌ | [WalletRequestScreen](https://github.com/HODL-DAO/PocketBook/issues/14) | | <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ❌ | [WalletSendScreen](https://github.com/HODL-DAO/PocketBook/issues/13) | | <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ❌ | [Implement Camera using RNCamera from react-native-camera](https://github.com/HODL-DAO/PocketBook/issues/9) |`enhancement`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
+| ✔ | [Re write Wallet.js](https://github.com/HODL-DAO/PocketBook/issues/7) |`Rewrite`, `wontfix`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
 
 
 #### Functional Wallet
