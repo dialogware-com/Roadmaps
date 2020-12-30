@@ -12,5 +12,5 @@ Roadmaps for ongoing projects.
  -> [Website Roadmap](https://github.com/HODL-DAO/Roadmaps/tree/master/output/Website)
 
 
-## Latest EthereumContracts (private repo) Roadmap 
- -> [EthereumContracts Roadmap](https://github.com/HODL-DAO/Roadmaps/tree/master/output/EthereumContracts)
+## Latest Ethereum-Contracts (private repo) Roadmap 
+ -> [Ethereum-Contracts Roadmap](https://github.com/HODL-DAO/Roadmaps/tree/master/output/Ethereum-Contracts)

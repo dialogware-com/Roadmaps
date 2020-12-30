@@ -2,7 +2,7 @@
 
 This document describes the current status and the upcoming milestones of the HODL-DAO project.
 
-*Updated: Sat, 26 Dec 2020 16:26:56 GMT*
+*Updated: Wed, 30 Dec 2020 11:07:20 GMT*
 
 #### Milestone Summary
 
@@ -22,19 +22,19 @@ This document describes the current status and the upcoming milestones of the HO
 
 | Status | Goal | Labels | Repository |
 | :---: | :--- | --- | --- |
-| ✔ | [Pull down to reload interfering with FullPage component in some mobile browsers](https://github.com/HODL-DAO/Website/issues/16) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Fix scrolling with touchpad](https://github.com/HODL-DAO/Website/issues/15) |`bug`| <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Test fullpage component](https://github.com/HODL-DAO/Website/issues/14) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ❌ | [Add Token page functionality](https://github.com/HODL-DAO/Website/issues/13) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ❌ | [Add 4 states to page](https://github.com/HODL-DAO/Website/issues/12) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [implement fullpage.js (or equiv)](https://github.com/HODL-DAO/Website/issues/11) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Camera Panning](https://github.com/HODL-DAO/Website/issues/10) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Set up netlify + namecheap to link tld](https://github.com/HODL-DAO/Website/issues/7) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ❌ | [Create assets for PB and DoubleHelix on site](https://github.com/HODL-DAO/Website/issues/6) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Support Page](https://github.com/HODL-DAO/Website/issues/5) |`help wanted`, `question`| <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Set up routing using Sapper](https://github.com/HODL-DAO/Website/issues/4) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Implement scroll based positional layout for main landing page](https://github.com/HODL-DAO/Website/issues/3) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| ✔ | [Use 11ty starter to wrap existing svelte components](https://github.com/HODL-DAO/Website/issues/1) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
+| ✅ | [Pull down to reload interfering with FullPage component in some mobile browsers](https://github.com/HODL-DAO/Website/issues/16) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
+| ✅ | [Fix scrolling with touchpad](https://github.com/HODL-DAO/Website/issues/15) |`bug`| <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
+| ✅ | [Test fullpage component](https://github.com/HODL-DAO/Website/issues/14) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
+| 👨‍💻 | [Add Token page functionality](https://github.com/HODL-DAO/Website/issues/13) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
+| 👨‍💻 | [Add 4 states to page](https://github.com/HODL-DAO/Website/issues/12) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
+| ✅ | [implement fullpage.js (or equiv)](https://github.com/HODL-DAO/Website/issues/11) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
+| ✅ | [Camera Panning](https://github.com/HODL-DAO/Website/issues/10) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
+| ✅ | [Set up netlify + namecheap to link tld](https://github.com/HODL-DAO/Website/issues/7) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
+| 👨‍💻 | [Create assets for PB and DoubleHelix on site](https://github.com/HODL-DAO/Website/issues/6) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
+| ✅ | [Support Page](https://github.com/HODL-DAO/Website/issues/5) |`help wanted`, `question`| <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
+| ✅ | [Set up routing using Sapper](https://github.com/HODL-DAO/Website/issues/4) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
+| ✅ | [Implement scroll based positional layout for main landing page](https://github.com/HODL-DAO/Website/issues/3) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
+| ✅ | [Use 11ty starter to wrap existing svelte components](https://github.com/HODL-DAO/Website/issues/1) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
 
 
 

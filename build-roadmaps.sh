@@ -17,7 +17,7 @@ fi
 
 
 
-for dir in './output/PocketBook' './output/Website' './output/EthereumContracts' #'./output/ELTBOT20'
+for dir in './output/PocketBook' './output/Website' './output/Ethereum-Contracts' #'./output/ELTBOT20'
 do
 mkdir -p $dir;
 PROJ_NAME=$(echo -ne $dir | sed 's/\.\/output\///g');
@@ -27,8 +27,8 @@ done
 #Make Output dirs (NOTE: (oli) Re-Enable ELTBOT when we figure out the roadmap gen issue)
 
 #Generate 4 README MD project roadmap breakdowns.
-echo "[build-roadmaps]: Building EthereumContracts"
-node index.js ./project-configs/EthereumContracts.conf.js -gsp > ./output/EthereumContracts/README.md
+echo "[build-roadmaps]: Building Ethereum-Contracts"
+node index.js ./project-configs/Ethereum-Contracts.conf.js -gsp > ./output/Ethereum-Contracts/README.md
 outputEmoji
 sleep 3
 # NOTE (oli): This fails (Because project is a fork?)

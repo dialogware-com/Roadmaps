@@ -47,8 +47,8 @@ const milestonesEndDate = roadmap.milestonesEndDate || moment.now()
 // Visuals configuration
 const symbols = {
   // Issue status
-  done: '✔', // or ✅ or '**DONE**'
-  notDone: '❌', // or 'OPEN'
+  done: '✅', // or ✅ or '**DONE**'
+  notDone: '👨‍💻', // or 'OPEN'
   // Milestone status
   open: '🚀', // or 🔔 or ''
   closed: '⭐', // or ''
