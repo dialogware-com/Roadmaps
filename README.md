@@ -13,7 +13,7 @@
 
 # Roadmaps
 
-In this repo you will find links to roadmaps for (HODL-DAO)[https://hodldao.xyz] ongoing & non-secret projects.
+In this repo you will find links to roadmaps for [HODL-DAO](https://hodldao.xyz) ongoing & non-secret projects.
 
 
 --
