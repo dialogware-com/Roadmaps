@@ -1,5 +1,5 @@
 # Roadmaps
-Roadmaps for ongoing projects.
+Roadmaps for ongoing non-secret projects.
 
 
 --
