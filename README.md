@@ -1,5 +1,19 @@
+<div align="center">
+  <p>
+      <img src="https://github.com/HODL-DAO/Designs/blob/master/HODL%20DAO/Logo/PNGs/hodldao_logo_black.png" width="250" />
+  </p>
+</div>
+
+
+
+
+
+
+
+
 # Roadmaps
-Roadmaps for ongoing projects.
+
+In this repo you will find links to roadmaps for [HODL-DAO](https://hodldao.xyz) ongoing & non-secret projects.
 
 
 --
