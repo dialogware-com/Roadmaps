@@ -2,13 +2,13 @@
 
 This document describes the current status and the upcoming milestones of the HODL-DAO project.
 
-*Updated: Thu, 31 Dec 2020 16:13:42 GMT*
+*Updated: Mon, 04 Jan 2021 09:46:20 GMT*
 
 #### Milestone Summary
 
 | Status | Milestone | Goals | ETA |
 | :---: | :--- | :---: | :---: |
-| 🚀 | **[ELTSWAP dApp ](#eltswap-dapp-)** | ![Progress](http://progressed.io/bar/44) | Fri Jan 01 2021 |
+| 🚀 | **[ELTSWAP dApp ](#eltswap-dapp-)** | ![Progress](http://progressed.io/bar/70) | Fri Jan 01 2021 |
 
 ## Milestones and Goals
 
@@ -16,13 +16,14 @@ This document describes the current status and the upcoming milestones of the HO
 
 > 
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**4 / 9** goals completed **(44%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Fri Jan 01 2021**
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**7 / 10** goals completed **(70%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Fri Jan 01 2021**
 
 | Status | Goal | Labels | Repository |
 | :---: | :--- | --- | --- |
-| 👨‍💻 | [Connect UI to web3](https://github.com/HODL-DAO/Ethereum-Contracts/issues/10) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
+| ✅ | [Ec 10 web3 UI](https://github.com/HODL-DAO/Ethereum-Contracts/pull/14) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
+| ✅ | [Connect UI to web3](https://github.com/HODL-DAO/Ethereum-Contracts/issues/10) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
 | 👨‍💻 | [General Purge](https://github.com/HODL-DAO/Ethereum-Contracts/issues/9) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
-| 👨‍💻 | [Implement mobile layout](https://github.com/HODL-DAO/Ethereum-Contracts/issues/8) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
+| ✅ | [Implement mobile layout](https://github.com/HODL-DAO/Ethereum-Contracts/issues/8) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
 | 👨‍💻 | [Create a custom slider component](https://github.com/HODL-DAO/Ethereum-Contracts/issues/7) |`enhancement`| <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
 | ✅ | [Write basic styling](https://github.com/HODL-DAO/Ethereum-Contracts/issues/6) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
 | ✅ | [Add SCSS support](https://github.com/HODL-DAO/Ethereum-Contracts/issues/5) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
