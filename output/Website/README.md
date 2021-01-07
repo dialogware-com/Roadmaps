@@ -2,13 +2,13 @@
 
 This document describes the current status and the upcoming milestones of the HODL-DAO project.
 
-*Updated: Mon, 04 Jan 2021 09:46:25 GMT*
+*Updated: Thu, 07 Jan 2021 09:23:43 GMT*
 
 #### Milestone Summary
 
 | Status | Milestone | Goals | ETA |
 | :---: | :--- | :---: | :---: |
-| 🚀 | **[v1 Release](#v1-release)** | ![Progress](http://progressed.io/bar/76) | Wed Oct 14 2020 |
+| 🚀 | **[v1 Release](#v1-release)** | ![Progress](http://progressed.io/bar/84) | Wed Oct 14 2020 |
 
 ## Milestones and Goals
 
@@ -18,7 +18,7 @@ This document describes the current status and the upcoming milestones of the HO
 > Hosted With Netlify to TLD
 > Contains relevant info and supports all (most) ((some)) devices
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**10 / 13** goals completed **(76%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Wed Oct 14 2020**
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**11 / 13** goals completed **(84%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Wed Oct 14 2020**
 
 | Status | Goal | Labels | Repository |
 | :---: | :--- | --- | --- |
@@ -30,7 +30,7 @@ This document describes the current status and the upcoming milestones of the HO
 | ✅ | [implement fullpage.js (or equiv)](https://github.com/HODL-DAO/Website/issues/11) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
 | ✅ | [Camera Panning](https://github.com/HODL-DAO/Website/issues/10) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
 | ✅ | [Set up netlify + namecheap to link tld](https://github.com/HODL-DAO/Website/issues/7) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
-| 👨‍💻 | [Create assets for PB and DoubleHelix on site](https://github.com/HODL-DAO/Website/issues/6) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
+| ✅ | [Create assets for PB and DoubleHelix on site](https://github.com/HODL-DAO/Website/issues/6) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
 | ✅ | [Support Page](https://github.com/HODL-DAO/Website/issues/5) |`help wanted`, `question`| <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
 | ✅ | [Set up routing using Sapper](https://github.com/HODL-DAO/Website/issues/4) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |
 | ✅ | [Implement scroll based positional layout for main landing page](https://github.com/HODL-DAO/Website/issues/3) | | <a href=https://github.com/HODL-DAO/Website>HODL-DAO/Website</a> |

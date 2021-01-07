@@ -2,7 +2,7 @@
 
 This document describes the current status and the upcoming milestones of the HODL-DAO project.
 
-*Updated: Mon, 04 Jan 2021 09:46:31 GMT*
+*Updated: Thu, 07 Jan 2021 09:23:50 GMT*
 
 #### Milestone Summary
 
