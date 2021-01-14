@@ -17,7 +17,7 @@ fi
 
 
 
-for dir in './output/PocketBook' './output/Website' './output/Ethereum-Contracts' #'./output/ELTBOT20'
+for dir in './output/PocketBook' './output/Website' './output/Ethereum-Contracts' './output/DoubleHelix'
 do
 mkdir -p $dir;
 PROJ_NAME=$(echo -ne $dir | sed 's/\.\/output\///g');
@@ -43,4 +43,7 @@ sleep 3
 echo "[build-roadmaps]: Building PocketBook"
 node index.js ./project-configs/PocketBook.conf.js -gsp > ./output/PocketBook/README.md
 outputEmoji
-
+sleep 3
+echo "[build-roadmaps]: Building DoubleHelix"
+node index.js ./project-configs/DoubleHelix.conf.js -gsp > ./output/DoubleHelix/README.md
+outputEmoji
