@@ -2,13 +2,13 @@
 
 This document describes the current status and the upcoming milestones of the HODL-DAO project.
 
-*Updated: Tue, 19 Jan 2021 12:25:21 GMT*
+*Updated: Wed, 20 Jan 2021 20:34:49 GMT*
 
 #### Milestone Summary
 
 | Status | Milestone | Goals | ETA |
 | :---: | :--- | :---: | :---: |
-| 🚀 | **[ELTSWAP dApp ](#eltswap-dapp-)** | ![Progress](http://progressed.io/bar/90) | Fri Jan 01 2021 |
+| 🚀 | **[ELTSWAP dApp ](#eltswap-dapp-)** | ![Progress](http://progressed.io/bar/95) | Fri Jan 01 2021 |
 
 ## Milestones and Goals
 
@@ -16,14 +16,14 @@ This document describes the current status and the upcoming milestones of the HO
 
 > 
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**19 / 21** goals completed **(90%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Fri Jan 01 2021**
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**20 / 21** goals completed **(95%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Fri Jan 01 2021**
 
 | Status | Goal | Labels | Repository |
 | :---: | :--- | --- | --- |
 | ✅ | [Ec 24 typography](https://github.com/HODL-DAO/Ethereum-Contracts/pull/33) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
 | ✅ | [revise #ethPill to fold well and fix spacing](https://github.com/HODL-DAO/Ethereum-Contracts/issues/32) |`bug`| <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
 | 👨‍💻 | [#burnRatioSlider is broken for mobile](https://github.com/HODL-DAO/Ethereum-Contracts/issues/29) |`bug`| <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
-| 👨‍💻 | [fix typography to same as hodldao.xyz](https://github.com/HODL-DAO/Ethereum-Contracts/issues/24) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
+| ✅ | [fix typography to same as hodldao.xyz](https://github.com/HODL-DAO/Ethereum-Contracts/issues/24) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
 | ✅ | [Develop](https://github.com/HODL-DAO/Ethereum-Contracts/pull/23) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
 | ✅ | [Ec 17 swap slider](https://github.com/HODL-DAO/Ethereum-Contracts/pull/22) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
 | ✅ | [Sanitizing input:number for number > 0](https://github.com/HODL-DAO/Ethereum-Contracts/pull/21) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
