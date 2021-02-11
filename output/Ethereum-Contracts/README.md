@@ -2,13 +2,13 @@
 
 This document describes the current status and the upcoming milestones of the HODL-DAO project.
 
-*Updated: Wed, 10 Feb 2021 14:15:00 GMT*
+*Updated: Thu, 11 Feb 2021 16:56:25 GMT*
 
 #### Milestone Summary
 
 | Status | Milestone | Goals | ETA |
 | :---: | :--- | :---: | :---: |
-| 🚀 | **[ELTSWAP dApp Beta](#eltswap-dapp-beta)** | ![Progress](http://progressed.io/bar/84) | Mon Jan 25 2021 |
+| 🚀 | **[ELTSWAP dApp Beta](#eltswap-dapp-beta)** | ![Progress](http://progressed.io/bar/83) | Mon Jan 25 2021 |
 
 ## Milestones and Goals
 
@@ -16,7 +16,7 @@ This document describes the current status and the upcoming milestones of the HO
 
 > 
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**16 / 19** goals completed **(84%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Mon Jan 25 2021**
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**15 / 18** goals completed **(83%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Mon Jan 25 2021**
 
 | Status | Goal | Labels | Repository |
 | :---: | :--- | --- | --- |
@@ -38,7 +38,6 @@ This document describes the current status and the upcoming milestones of the HO
 | ✅ | [General Purge](https://github.com/HODL-DAO/Ethereum-Contracts/issues/9) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
 | ✅ | [Implement mobile layout](https://github.com/HODL-DAO/Ethereum-Contracts/issues/8) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
 | ✅ | [Create a custom slider component](https://github.com/HODL-DAO/Ethereum-Contracts/issues/7) |`enhancement`| <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
-| ✅ | [Write basic styling](https://github.com/HODL-DAO/Ethereum-Contracts/issues/6) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
 
 
 
