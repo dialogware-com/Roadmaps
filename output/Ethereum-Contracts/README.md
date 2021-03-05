@@ -2,13 +2,13 @@
 
 This document describes the current status and the upcoming milestones of the HODL-DAO project.
 
-*Updated: Fri, 26 Feb 2021 09:18:07 GMT*
+*Updated: Fri, 05 Mar 2021 10:35:08 GMT*
 
 #### Milestone Summary
 
 | Status | Milestone | Goals | ETA |
 | :---: | :--- | :---: | :---: |
-| 🚀 | **[ELTSWAP](#eltswap)** | ![Progress](http://progressed.io/bar/50) | Fri Mar 05 2021 |
+| 🚀 | **[ELTSWAP](#eltswap)** | ![Progress](http://progressed.io/bar/50) | Mon Mar 08 2021 |
 
 ## Milestones and Goals
 
@@ -16,14 +16,14 @@ This document describes the current status and the upcoming milestones of the HO
 
 > 
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**2 / 4** goals completed **(50%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Fri Mar 05 2021**
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**2 / 4** goals completed **(50%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Mon Mar 08 2021**
 
 | Status | Goal | Labels | Repository |
 | :---: | :--- | --- | --- |
-| 👨‍💻 | [Pending state changes](https://github.com/HODL-DAO/Ethereum-Contracts/issues/129) |`styling`| <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
+| 👨‍💻 | [Formally specify the expected output for the dApp](https://github.com/HODL-DAO/Ethereum-Contracts/issues/171) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
+| 👨‍💻 | [Status feedback](https://github.com/HODL-DAO/Ethereum-Contracts/issues/129) |`discussion`, `enhancement`, `feature`, `styling`| <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
 | ✅ | [User manual](https://github.com/HODL-DAO/Ethereum-Contracts/issues/109) |`wontfix`| <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
 | ✅ | [Pre-Softcap Multiplier](https://github.com/HODL-DAO/Ethereum-Contracts/issues/86) |`enhancement`| <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
-| 👨‍💻 | [ELTSWAP + TokenSale Contract](https://github.com/HODL-DAO/Ethereum-Contracts/issues/65) | | <a href=https://github.com/HODL-DAO/Ethereum-Contracts>HODL-DAO/Ethereum-Contracts</a> |
 
 
 
