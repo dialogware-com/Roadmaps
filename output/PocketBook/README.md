@@ -2,7 +2,7 @@
 
 This document describes the current status and the upcoming milestones of the HODL-DAO project.
 
-*Updated: Sat, 10 Apr 2021 21:28:08 GMT*
+*Updated: Tue, 18 May 2021 19:29:49 GMT*
 
 #### Milestone Summary
 
@@ -10,7 +10,7 @@ This document describes the current status and the upcoming milestones of the HO
 | :---: | :--- | :---: | :---: |
 | 🚀 | **[Fully Functional UI ](#fully-functional-ui-)** | ![Progress](http://progressed.io/bar/0) | Sat Jan 23 2021 |
 | 🚀 | **[Beta 1](#beta-1)** | ![Progress](http://progressed.io/bar/0) | Tue Feb 23 2021 |
-| 🚀 | **[Fully implemented PocketBook ](#fully-implemented-pocketbook-)** | ![Progress](http://progressed.io/bar/76) | Fri Apr 02 2021 |
+| 🚀 | **[Fully implemented PocketBook ](#fully-implemented-pocketbook-)** | ![Progress](http://progressed.io/bar/75) | Fri Apr 02 2021 |
 | ⭐ | **[Functional Wallet](#functional-wallet)** | ![Progress](http://progressed.io/bar/100) | Wed Nov 18 2020 |
 
 ## Milestones and Goals
@@ -49,7 +49,7 @@ This document describes the current status and the upcoming milestones of the HO
 
 > By this date, all designs should be implemented with minimal functionality, as necessary for a smooth MVP pitch.
 
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**19 / 25** goals completed **(76%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Fri Apr 02 2021**
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**18 / 24** goals completed **(75%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Fri Apr 02 2021**
 
 | Status | Goal | Labels | Repository |
 | :---: | :--- | --- | --- |
@@ -77,14 +77,13 @@ This document describes the current status and the upcoming milestones of the HO
 | 👨‍💻 | [WalletRequestScreen](https://github.com/HODL-DAO/PocketBook/issues/14) | | <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
 | 👨‍💻 | [WalletSendScreen](https://github.com/HODL-DAO/PocketBook/issues/13) | | <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
 | 👨‍💻 | [Implement Camera using RNCamera from react-native-camera](https://github.com/HODL-DAO/PocketBook/issues/9) |`enhancement`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
-| ✅ | [Re write Wallet.js](https://github.com/HODL-DAO/PocketBook/issues/7) |`Rewrite`, `wontfix`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
 
 
 #### Functional Wallet
 
 > Fully functional ETH wallet with DID support
 
-⭐ &nbsp;**CLOSED** &nbsp;&nbsp;📉 &nbsp;&nbsp;**39 / 39** goals completed **(100%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Wed Nov 18 2020**
+⭐ &nbsp;**CLOSED** &nbsp;&nbsp;📉 &nbsp;&nbsp;**35 / 35** goals completed **(100%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Wed Nov 18 2020**
 
 | Status | Goal | Labels | Repository |
 | :---: | :--- | --- | --- |
@@ -123,10 +122,6 @@ This document describes the current status and the upcoming milestones of the HO
 | ✅ | [Private Key](https://github.com/HODL-DAO/PocketBook/issues/12) |`wontfix`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
 | ✅ | [Pin Code](https://github.com/HODL-DAO/PocketBook/issues/11) | | <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
 | ✅ | [Add Token (low)](https://github.com/HODL-DAO/PocketBook/issues/10) |`wontfix`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
-| ✅ | [Network Picker](https://github.com/HODL-DAO/PocketBook/issues/8) | | <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
-| ✅ | [Recover Wallet](https://github.com/HODL-DAO/PocketBook/issues/6) |`wontfix`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
-| ✅ | [Styling](https://github.com/HODL-DAO/PocketBook/issues/5) |`enhancement`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
-| ✅ | [App loading Android](https://github.com/HODL-DAO/PocketBook/issues/4) |`Rewrite`| <a href=https://github.com/HODL-DAO/PocketBook>HODL-DAO/PocketBook</a> |
 
 
 
