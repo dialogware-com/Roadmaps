@@ -1,4 +1,5 @@
+.idea
+.github_token
 *sublime*
 node_modules/
-nocommit.sh
-nocommit_2.sh
+yarn.lock

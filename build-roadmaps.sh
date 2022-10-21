@@ -1,23 +1,25 @@
 #/bin/bash -e
+[ -z $GITHUB_TOKEN ] && GITHUB_TOKEN=$(cat .github_token)
 if [[ -z $GITHUB_TOKEN ]]; then
     echo 'NO GITHUB_TOKEN SET.'
-    echo 'Plese set one using \`export GITHUB_TOKEN=\`'
+    echo 'Please set one using \`export GITHUB_TOKEN=\`'
     exit 1
 fi
 
 yarn;
 
 function outputEmoji() {
-if [[ $? -eq 0 ]]; then 
+if [[ $? -eq 0 ]]; then
     echo "[build-roadmaps]: ✅";
-else 
+else
     echo "[build-roadmaps]: ❌";
 fi
 }
 
 
 
-for dir in './output/PocketBook' './output/Website' './output/Ethereum-Contracts' './output/DoubleHelix'
+#for dir in './output/dialogware' './output/Website' './output/Ethereum-Contracts' './output/DoubleHelix'
+for dir in './output/dialogware'
 do
 mkdir -p $dir;
 PROJ_NAME=$(echo -ne $dir | sed 's/\.\/output\///g');
@@ -27,23 +29,8 @@ done
 #Make Output dirs (NOTE: (oli) Re-Enable ELTBOT when we figure out the roadmap gen issue)
 
 #Generate 4 README MD project roadmap breakdowns.
-echo "[build-roadmaps]: Building Ethereum-Contracts"
-node index.js ./project-configs/Ethereum-Contracts.conf.js -gsp > ./output/Ethereum-Contracts/README.md
+echo "[build-roadmaps]: Building dialogware roadmap"
+node index.js ./project-configs/dialogware.conf.js -gsp > ./output/dialogware/README.md
 outputEmoji
 sleep 3
-# NOTE (oli): This fails (Because project is a fork?)
-# echo "[build-roadmaps]: Building ELTBOT20"
-# node index.js ./project-configs/ELTBOT20.conf.js -gsp > ./output/ELTBOT20/README.md
-# outputEmoji
-# sleep 3
-echo "[build-roadmaps]: Building Website"
-node index.js ./project-configs/HODLWebsite.conf.js -gsp > ./output/Website/README.md
-outputEmoji
-sleep 3
-echo "[build-roadmaps]: Building PocketBook"
-node index.js ./project-configs/PocketBook.conf.js -gsp > ./output/PocketBook/README.md
-outputEmoji
-sleep 3
-echo "[build-roadmaps]: Building DoubleHelix"
-node index.js ./project-configs/DoubleHelix.conf.js -gsp > ./output/DoubleHelix/README.md
-outputEmoji
+
